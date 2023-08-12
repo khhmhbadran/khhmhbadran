@@ -1,16 +1,13 @@
-### Hi there 👋
+### Karim Hamada
 
-<!--
-**khhmhbadran/khhmhbadran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Git & Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me :
+
+<a href="https://linkedin.com/in/khhmhbadran/" target="_blank"><img src="https://img.shields.io/badge/Karim%20Hamada-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+### &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
