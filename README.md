@@ -2,7 +2,7 @@
 
 I'm an HTML & CSS developer
 
-- 🌱 I’m currently learning Git & Github
+- 🌱 I’m currently learning SASS
 
 <br><br>
 
