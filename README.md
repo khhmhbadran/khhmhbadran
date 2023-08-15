@@ -2,7 +2,9 @@
 
 I'm an HTML & CSS developer
 
-- 🌱 I’m currently learning SASS
+- 🌱 I’m currently coding HTML & CSS templates
+
+<!-- - 🌱 I’m currently learning SASS -->
 
 <br><br>
 
