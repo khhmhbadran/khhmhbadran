@@ -2,10 +2,6 @@
 
 I'm an HTML & CSS developer
 
-<!-- - 🌱 I’m currently coding HTML & CSS templates -->
-
-<!-- - 🌱 I’m currently learning SASS -->
-
 <br>
 
 ### Connect with me :
@@ -19,9 +15,3 @@ I'm an HTML & CSS developer
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-<!--
-<a href="https://komarev.com/ghpvc/?username=khhmhbadran&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=khhmhbadran&style=for-the-badge">
-</a>
--->
