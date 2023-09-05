@@ -1,6 +1,6 @@
 ### Karim Hamada
 
-I'm an HTML & CSS developer
+I'm HTML & CSS developer
 
 <br>
 
